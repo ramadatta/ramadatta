@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramadatta&show_icons=true&repo=github-readme-stats&theme=gradient" />
+</a>
 
 <!--
 **ramadatta/ramadatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
