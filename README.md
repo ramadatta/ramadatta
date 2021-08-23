@@ -2,7 +2,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramadatta&show_icons=true&repo=github-readme-stats&theme=buefy&hide=stars" />
 </a>
 
-Here are some ideas to get you started:
+About me:
 
 - 🔭 I’m currently working on bacterial genomics
 - 🌱 I’m currently learning R plotting, data visualization
