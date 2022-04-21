@@ -10,3 +10,7 @@ About me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Is there a word which can become short by adding two letters? Absolutey, Yes! It is "S-H-O-R-T-E-R". Just add "E-R", it becomes "Shorter" 😄
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadatta&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ramadatta.ramdatta)
