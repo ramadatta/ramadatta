@@ -15,3 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadatta&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ramadatta.ramdatta)
+
+<a
+href="https://statcounter.com/p12745510/?guest=1">Visitors</a>
+
