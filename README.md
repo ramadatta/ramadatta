@@ -17,7 +17,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ramadatta.ramdatta)
 
 
-# Blog posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [BRIG genome visualization missing rings - Solved!](https://asearchforsolutions.blogspot.com/2022/04/brig-genome-visualization-missing-rings.html)
 - [SRST2 requires a specific naming convention for input fastq files](https://asearchforsolutions.blogspot.com/2022/04/srst2-requires-specific-naming.html)
