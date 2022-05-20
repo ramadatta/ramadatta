@@ -19,4 +19,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BRIG genome visualization missing rings - Solved!](https://asearchforsolutions.blogspot.com/2022/04/brig-genome-visualization-missing-rings.html)
+- [SRST2 requires a specific naming convention for input fastq files](https://asearchforsolutions.blogspot.com/2022/04/srst2-requires-specific-naming.html)
+- [Nextflow: Missing &#39;bind&#39; declaration in input parameter - resolved](https://asearchforsolutions.blogspot.com/2022/03/nextflow-missing-bind-declaration-in.html)
+- [Tips for uploading data to NCBI SRA](https://asearchforsolutions.blogspot.com/2022/02/tips-for-uploading-data-to-ncbi-sra.html)
+- [Extract accessory genes as fasta files from the roary output for downstream functional characterization](https://asearchforsolutions.blogspot.com/2022/01/extract-accessory-genes-as-fasta-files.html)
 <!-- BLOG-POST-LIST:END -->
