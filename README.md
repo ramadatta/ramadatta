@@ -19,9 +19,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Running MLST tool on individual contigs in fasta vs whole genome assembly fasta](https://asearchforsolutions.blogspot.com/2022/07/running-mlst-tool-on-individual-contigs.html)
 - [Contigs with no read coverage &lpar;zero reads mapped&rpar; after mapping using Bowtie2](https://asearchforsolutions.blogspot.com/2022/06/contigs-with-no-read-coverage-zero.html)
 - [Downloading viral genome database for viral read classification - Metagenomics](https://asearchforsolutions.blogspot.com/2022/06/downloading-viral-genome-database-for.html)
 - [Resolved-How to load an HTML page on Github as a normal HTML page we see in browser?](https://asearchforsolutions.blogspot.com/2022/06/resolved-how-to-load-html-page-on.html)
 - [BRIG genome visualization missing rings - Solved!](https://asearchforsolutions.blogspot.com/2022/04/brig-genome-visualization-missing-rings.html)
-- [SRST2 requires a specific naming convention for input fastq files](https://asearchforsolutions.blogspot.com/2022/04/srst2-requires-specific-naming.html)
 <!-- BLOG-POST-LIST:END -->
