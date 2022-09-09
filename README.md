@@ -19,9 +19,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bash - partially resolved - cannot create temp file for here-document: no space left on device](https://asearchforsolutions.blogspot.com/2022/09/cannot-create-temp-file-for-here.html)
 - [Useful conda commands list](https://asearchforsolutions.blogspot.com/2022/08/useful-conda-commands-list.html)
 - [Difference between PCA and PCoA](https://asearchforsolutions.blogspot.com/2022/08/difference-between-pca-and-pcoa.html)
 - [Calculate the frequency for a range of nucleotides aligned to reference from a BAM file](https://asearchforsolutions.blogspot.com/2022/07/calculate-frequency-for-range-of.html)
 - [Useful Blast Commands and one-liners](https://asearchforsolutions.blogspot.com/2022/07/useful-blast-commands-and-one-liners.html)
-- [Running MLST tool on individual contigs in fasta vs whole genome assembly fasta](https://asearchforsolutions.blogspot.com/2022/07/running-mlst-tool-on-individual-contigs.html)
 <!-- BLOG-POST-LIST:END -->
