@@ -19,9 +19,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Resolved - UnsatisfiableError: The following specifications were found to be incompatible with each other](https://asearchforsolutions.blogspot.com/2022/11/resolved-unsatisfiableerror-following.html)
 - [Resolved - dist function - NAs introduced by coercion](https://asearchforsolutions.blogspot.com/2022/10/resolved-dist-function-nas-introduced.html)
 - [Installing Seurat Package in Rstudio](https://asearchforsolutions.blogspot.com/2022/09/installing-seurat-package-in-rstudio.html)
 - [Bash - partially resolved - cannot create temp file for here-document: no space left on device](https://asearchforsolutions.blogspot.com/2022/09/cannot-create-temp-file-for-here.html)
 - [Useful conda commands list](https://asearchforsolutions.blogspot.com/2022/08/useful-conda-commands-list.html)
-- [Difference between PCA and PCoA](https://asearchforsolutions.blogspot.com/2022/08/difference-between-pca-and-pcoa.html)
 <!-- BLOG-POST-LIST:END -->
