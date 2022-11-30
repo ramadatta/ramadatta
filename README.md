@@ -19,9 +19,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Resolved- Error in scale.default: length of &#39;scale&#39; must equal the number of columns of &#39;x&#39;](https://asearchforsolutions.blogspot.com/2022/11/resolved-error-in-scaledefault-length.html)
 - [Resolved - UnsatisfiableError: The following specifications were found to be incompatible with each other](https://asearchforsolutions.blogspot.com/2022/11/resolved-unsatisfiableerror-following.html)
 - [Resolved - dist function - NAs introduced by coercion](https://asearchforsolutions.blogspot.com/2022/10/resolved-dist-function-nas-introduced.html)
 - [Installing Seurat Package in Rstudio](https://asearchforsolutions.blogspot.com/2022/09/installing-seurat-package-in-rstudio.html)
 - [Bash - partially resolved - cannot create temp file for here-document: no space left on device](https://asearchforsolutions.blogspot.com/2022/09/cannot-create-temp-file-for-here.html)
-- [Useful conda commands list](https://asearchforsolutions.blogspot.com/2022/08/useful-conda-commands-list.html)
 <!-- BLOG-POST-LIST:END -->
