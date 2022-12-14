@@ -1,9 +1,10 @@
-### Prakki Sai Rama Sridatta 👋 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushbu-patel-b1a196b5/)](https://www.linkedin.com/in/prakki-sai-rama-sridatta-data/)
+### Prakki Sai Rama Sridatta 👋 [<img src="https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakki-sai-rama-sridatta-data" width="40" height="30">](https://www.linkedin.com/in/prakki-sai-rama-sridatta-data/) [<img src="https://upload.wikimedia.org/wikipedia/commons/archive/4/4f/20220821125552%21Twitter-logo.svg" width="30" height="30">](https://twitter.com/Prakki_Rama) [<img src="https://www.blogger.com/img/logo_blogger_40px.png" width="30" height="30">](https://asearchforsolutions.blogspot.com/)
+
+
 
 - 🔭 Senior Bioinformatician
 - 🌱 Currently working at the National Centre for Infectious Diseases, Singapore
 - 💻 Experienced working with RNA-Seq, WGS data, R data visualization, Data analysis using Bash/Perl
-- 📫 How to reach me: ramadatta.88@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Is there a word which can become short by adding two letters? Absolutely, Yes! It is "S-H-O-R-T-E-R". Just add "E-R" to short, it becomes "Shorter" 😄
 
