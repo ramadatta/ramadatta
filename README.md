@@ -21,9 +21,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Resolved-Java version 11 is required to run InterProScan](https://asearchforsolutions.blogspot.com/2023/03/resolved-java-version-11-is-required-to.html)
 - [Unexpected Topology in Gubbins Newick File: An Analysis of Branch Arrangement with Respect to SNPs](https://asearchforsolutions.blogspot.com/2023/02/a-little-notes-about-gubbins-tool-to.html)
 - [Resolved - scenic+ pip install error](https://asearchforsolutions.blogspot.com/2022/12/resolved-scenic-pip-install-error.html)
 - [devtools installation error](https://asearchforsolutions.blogspot.com/2022/11/devtools-installation-error.html)
 - [Resolved- Error in scale.default: length of &#39;scale&#39; must equal the number of columns of &#39;x&#39;](https://asearchforsolutions.blogspot.com/2022/11/resolved-error-in-scaledefault-length.html)
-- [Resolved - UnsatisfiableError: The following specifications were found to be incompatible with each other](https://asearchforsolutions.blogspot.com/2022/11/resolved-unsatisfiableerror-following.html)
 <!-- BLOG-POST-LIST:END -->
