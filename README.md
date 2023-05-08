@@ -21,9 +21,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MINIFS function in excel](https://asearchforsolutions.blogspot.com/2023/05/minifs-function-in-excel.html)
 - [How to Fix a VirtualBox Aborted Error with Blank Screen in Ubuntu](https://asearchforsolutions.blogspot.com/2023/04/how-to-fix-virtualbox-aborted-error.html)
 - [qpois function in R](https://asearchforsolutions.blogspot.com/2023/04/qpois-function-in-r.html)
 - [Resolved-Java version 11 is required to run InterProScan](https://asearchforsolutions.blogspot.com/2023/03/resolved-java-version-11-is-required-to.html)
 - [Unexpected Topology in Gubbins Newick File: An Analysis of Branch Arrangement with Respect to SNPs](https://asearchforsolutions.blogspot.com/2023/02/a-little-notes-about-gubbins-tool-to.html)
-- [Resolved - scenic+ pip install error](https://asearchforsolutions.blogspot.com/2022/12/resolved-scenic-pip-install-error.html)
 <!-- BLOG-POST-LIST:END -->
