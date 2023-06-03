@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Senior Bioinformatician
-- 🌱 Currently working at the National Centre for Infectious Diseases, Singapore
+- 🔭 Bioinformatician
+- 🌱 Currently working at the Helmholtz Munich, Germany
 - 💻 Experienced working with RNA-Seq, WGS data, R data visualization, Data analysis using Bash/Perl
 - 💻 Interested in Single-Cell data analysis, Python, Machine Learning
 - 😄 Pronouns: He/Him
