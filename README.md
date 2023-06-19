@@ -1,5 +1,4 @@
-### Prakki Sai Rama Sridatta 👋 [<img src="https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakki-sai-rama-sridatta-data" width="40" height="30">](https://www.linkedin.com/in/prakki-sai-rama-sridatta-data/) [<img src="https://upload.wikimedia.org/wikipedia/commons/archive/4/4f/20220821125552%21Twitter-logo.svg" width="30" height="30">](https://twitter.com/Prakki_Rama) [<img src="https://www.blogger.com/img/logo_blogger_40px.png" width="30" height="30">](https://asearchforsolutions.blogspot.com/)
-
+### Prakki Sai Rama Sridatta 👋 [<img src="https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakki-sai-rama-sridatta-data" width="40" height="30">](https://www.linkedin.com/in/prakki-sai-rama-sridatta-data/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1920px-Logo_of_Twitter.svg.png" width="30" height="30">](https://twitter.com/Prakki_Rama) [<img src="https://www.blogger.com/img/logo_blogger_40px.png" width="30" height="30">](https://asearchforsolutions.blogspot.com/)
 
 
 - 🔭 Bioinformatician
