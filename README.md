@@ -13,9 +13,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing Singularity version: 3.6.3 in Ubuntu Linux](https://asearchforsolutions.blogspot.com/2023/08/installing-singularity-version-363-in.html)
 - [How to run Jupyter Notebooks on remote server](https://asearchforsolutions.blogspot.com/2023/07/how-to-run-jupyter-notebooks-on-remote.html)
 - [MINIFS function in excel](https://asearchforsolutions.blogspot.com/2023/05/minifs-function-in-excel.html)
 - [How to Fix a VirtualBox Aborted Error with Blank Screen in Ubuntu](https://asearchforsolutions.blogspot.com/2023/04/how-to-fix-virtualbox-aborted-error.html)
 - [qpois function in R](https://asearchforsolutions.blogspot.com/2023/04/qpois-function-in-r.html)
-- [Resolved-Java version 11 is required to run InterProScan](https://asearchforsolutions.blogspot.com/2023/03/resolved-java-version-11-is-required-to.html)
 <!-- BLOG-POST-LIST:END -->
