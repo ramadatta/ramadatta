@@ -13,9 +13,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My conda environments for single cell analysis](https://asearchforsolutions.blogspot.com/2023/08/my-conda-environment-for-single-cell.html)
 - [Installing Singularity version: 3.6.3 in Ubuntu Linux](https://asearchforsolutions.blogspot.com/2023/08/installing-singularity-version-363-in.html)
 - [How to run Jupyter Notebooks on remote server](https://asearchforsolutions.blogspot.com/2023/07/how-to-run-jupyter-notebooks-on-remote.html)
 - [MINIFS function in excel](https://asearchforsolutions.blogspot.com/2023/05/minifs-function-in-excel.html)
 - [How to Fix a VirtualBox Aborted Error with Blank Screen in Ubuntu](https://asearchforsolutions.blogspot.com/2023/04/how-to-fix-virtualbox-aborted-error.html)
-- [qpois function in R](https://asearchforsolutions.blogspot.com/2023/04/qpois-function-in-r.html)
 <!-- BLOG-POST-LIST:END -->
