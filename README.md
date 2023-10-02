@@ -13,9 +13,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Blank Screen Cursor at Top Left Ubuntu 22.04 LTS](https://asearchforsolutions.blogspot.com/2023/10/blank-screen-cursor-at-top-left-ubuntu.html)
 - [Notes on adata object](https://asearchforsolutions.blogspot.com/2023/09/notes-on-adata-object.html)
 - [My conda environments for single cell analysis](https://asearchforsolutions.blogspot.com/2023/08/my-conda-environment-for-single-cell.html)
 - [Installing Singularity version: 3.6.3 in Ubuntu Linux](https://asearchforsolutions.blogspot.com/2023/08/installing-singularity-version-363-in.html)
 - [How to run Jupyter Notebooks on remote server](https://asearchforsolutions.blogspot.com/2023/07/how-to-run-jupyter-notebooks-on-remote.html)
-- [MINIFS function in excel](https://asearchforsolutions.blogspot.com/2023/05/minifs-function-in-excel.html)
 <!-- BLOG-POST-LIST:END -->
