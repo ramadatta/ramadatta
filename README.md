@@ -13,9 +13,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cutoffs and Thresholds for single nuclei and single cell RNAseq data](https://asearchforsolutions.blogspot.com/2023/11/cutoffs-and-thresholds-for-single.html)
 - [Data Downloads with SFTP Commands](https://asearchforsolutions.blogspot.com/2023/11/data-downloads-with-sftp-commands.html)
 - [Resolved: Error: object ‘LayerData&lt;-’ is not exported by &#39;namespace:SeuratObject&#39;](https://asearchforsolutions.blogspot.com/2023/11/resolved-error-object-layerdata-is-not.html)
 - [Notes on snapatac2](https://asearchforsolutions.blogspot.com/2023/11/notes-on-snapatac2.html)
 - [Issues with running scArches](https://asearchforsolutions.blogspot.com/2023/10/issues-with-running-scarches.html)
-- [Blank Screen Cursor at Top Left Ubuntu 22.04 LTS](https://asearchforsolutions.blogspot.com/2023/10/blank-screen-cursor-at-top-left-ubuntu.html)
 <!-- BLOG-POST-LIST:END -->
