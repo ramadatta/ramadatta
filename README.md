@@ -13,9 +13,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Single cell analysis - My short summaries collection](https://asearchforsolutions.blogspot.com/2024/01/single-cell-analysis-my-short-summary.html)
 - [Tip: Single Cell Analysis in python - Doublet Detection notes](https://asearchforsolutions.blogspot.com/2023/12/single-cell-analysis-in-python-doublet.html)
 - [Tip: the item to be deployed exceeds the maximum deployment size](https://asearchforsolutions.blogspot.com/2023/12/tip-item-to-be-deployed-exceeds-maximum.html)
 - [Cutoffs and Thresholds for single nuclei and single cell RNAseq data](https://asearchforsolutions.blogspot.com/2023/11/cutoffs-and-thresholds-for-single.html)
 - [Data Downloads with SFTP Commands](https://asearchforsolutions.blogspot.com/2023/11/data-downloads-with-sftp-commands.html)
-- [Resolved: Error: object ‘LayerData&lt;-’ is not exported by &#39;namespace:SeuratObject&#39;](https://asearchforsolutions.blogspot.com/2023/11/resolved-error-object-layerdata-is-not.html)
 <!-- BLOG-POST-LIST:END -->
