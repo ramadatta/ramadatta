@@ -13,9 +13,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Resolved - Souporcell installation issues](https://asearchforsolutions.blogspot.com/2024/01/resolved-souporcell-installation-issues.html)
 - [Resolved - Issues with running Monocle 3](https://asearchforsolutions.blogspot.com/2024/01/some-issues-i-faced-when-trying-to-use.html)
 - [QA on in Single cell data analysis](https://asearchforsolutions.blogspot.com/2024/01/qa-on-in-single-cell-data-analysis.html)
 - [Single cell analysis - My short summaries collection](https://asearchforsolutions.blogspot.com/2024/01/single-cell-analysis-my-short-summary.html)
 - [Tip: Single Cell Analysis in python - Doublet Detection notes](https://asearchforsolutions.blogspot.com/2023/12/single-cell-analysis-in-python-doublet.html)
-- [Tip: the item to be deployed exceeds the maximum deployment size](https://asearchforsolutions.blogspot.com/2023/12/tip-item-to-be-deployed-exceeds-maximum.html)
 <!-- BLOG-POST-LIST:END -->
