@@ -13,9 +13,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SCENIC - GRN prediction time](https://asearchforsolutions.blogspot.com/2024/10/scenic-grn-prediction-time.html)
 - [Troubleshooting Module Import Issues in Jupyter Notebook](https://asearchforsolutions.blogspot.com/2024/05/troubleshooting-module-import-issues-in.html)
 - [How to Access SMB Shares on Linux: A Step-by-Step Guide](https://asearchforsolutions.blogspot.com/2024/02/how-to-access-smb-shares-on-linux-step.html)
 - [Resolved - TypeError: Can&#39;t implicitly convert non-string objects to strings](https://asearchforsolutions.blogspot.com/2024/02/resolved-typeerror-cant-implicitly.html)
 - [Resolved - R Shiny - Navigation containers expect a collection of](https://asearchforsolutions.blogspot.com/2024/01/resolved-r-shiny-navigation-containers.html)
-- [Resolved - Souporcell installation issues](https://asearchforsolutions.blogspot.com/2024/01/resolved-souporcell-installation-issues.html)
 <!-- BLOG-POST-LIST:END -->
