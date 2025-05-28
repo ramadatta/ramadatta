@@ -6,7 +6,6 @@
 - 💻 Experienced working with RNA-Seq, WGS data, R data visualization, Data analysis using Bash/Perl
 - 💻 Interested in Single-Cell data analysis, Python, Machine Learning
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Is there a word which can become short by adding two letters? Absolutely, Yes! It is "S-H-O-R-T-E-R". Just add "E-R" to short, it becomes "Shorter" 😄
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ramadatta.ramdatta)
 
