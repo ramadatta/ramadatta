@@ -41,7 +41,7 @@ Python · R · Scanpy · Seurat · Bioconductor · Shiny · Bash/AWK/SED · HPC 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ramadatta.ramdatta)
 
-### 📕 Latest Blog Posts
+#### 📕 Posts (Older blog)
 <!-- BLOG-POST-LIST:START -->
 - [pip install does not seem to install software](https://asearchforsolutions.blogspot.com/2025/02/pip-install-does-not-seem-to-install.html)
 - [R package installation error:  API rate limit exceeded for](https://asearchforsolutions.blogspot.com/2024/11/r-package-installation-error-api-rate.html)
