@@ -35,6 +35,11 @@ Python · R · Scanpy · Seurat · Bioconductor · Shiny · Bash/AWK/SED · HPC 
 
 #### 📕 Latest writing
 <!-- BLOG-POST-LIST:START -->
+- [pip install does not seem to install software](https://asearchforsolutions.blogspot.com/2025/02/pip-install-does-not-seem-to-install.html)
+- [R package installation error:  API rate limit exceeded for](https://asearchforsolutions.blogspot.com/2024/11/r-package-installation-error-api-rate.html)
+- [SCENIC - GRN prediction time](https://asearchforsolutions.blogspot.com/2024/10/scenic-grn-prediction-time.html)
+- [Troubleshooting Module Import Issues in Jupyter Notebook](https://asearchforsolutions.blogspot.com/2024/05/troubleshooting-module-import-issues-in.html)
+- [How to Access SMB Shares on Linux: A Step-by-Step Guide](https://asearchforsolutions.blogspot.com/2024/02/how-to-access-smb-shares-on-linux-step.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ All posts: [The Lab Notebook](https://ramadatta.github.io/blog/?utm_source=github&utm_medium=profile) · Older fixes: [A Search For Solutions](https://asearchforsolutions.blogspot.com/)
